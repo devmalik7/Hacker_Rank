@@ -4,12 +4,10 @@ int main()
 {
     int a;
     int b;
-    printf("enter the value of A");
-    scanf ("%d", &a);
-    printf ("enter the valuee of B");
+    printf("Enter two value A and B\n");
+    scanf("%d", &a);
     scanf("%d", &b);
-    int c= a+b;
-    printf("he sum of two numbers is %d" , c);
+    printf("The sum of two numbers is %d" , a+b);
     return 0;
    
 }
