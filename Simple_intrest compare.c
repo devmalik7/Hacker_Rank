@@ -1,7 +1,8 @@
 #include<stdio.h> 
 
 int main()
-{	int x,y,z;
+{	
+	int x,y,z;
 	float r1,r2,r3;
 	int t1,t2,t3;
 	printf("\nEnter the Principal Amount for Ram:");
@@ -28,10 +29,7 @@ int main()
 	scanf("%d",&t3);
 	float s3 = (z*r3*t3)/100;
 	printf("\nSI for Sohan is:%f", s3);
-    printf("\nMaximum interest is paid by:");
+    	printf("\nMaximum interest is paid by:");
 	s1 > s2 ? (s1 > s3 ?printf("Ram"): printf("Sohan")) : (s2 > s3 ?printf("Mohan") :printf("Sohan"));
-    return 0;
-	
-
- 
+    	return 0;
 }
