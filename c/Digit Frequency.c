@@ -27,7 +27,7 @@ int main()
         break;
         }
         case 3:
-        {
+       {
         printf("three\n");
         if(t1==3)
         break;
