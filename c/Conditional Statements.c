@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-static const char *strings[] = {"one","two","three","four","five",
-                                "six","seven","eight","nine"};
+static const char *strings[] = {"one","two","three","four","five","six","seven","eight","nine"};
 int main()
 {
     int n = 0;
