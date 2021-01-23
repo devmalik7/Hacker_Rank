@@ -14,7 +14,8 @@
 
 
 
-
+#include <string.h>
+#include <math.h>
 ##include <stdio.h>
 
 #define min(a, b) ((a) < (b) ? (a) : (b))
