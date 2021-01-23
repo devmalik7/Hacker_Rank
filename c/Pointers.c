@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
 void update(int *a,int *b) {
     // Codexritik
     int aa = *a;
