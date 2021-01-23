@@ -22,6 +22,5 @@ int main()
          
     }
         printf("%d", sum);
-    //Complete the code to calculate the sum of the five digits on n.
     return 0;
 }
