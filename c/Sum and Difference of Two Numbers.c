@@ -15,6 +15,4 @@ int main()
     S=c+e;
     D=c-e;
     printf("\n%0.1f %0.1f",S,D);
-
-    return 0;
-}
+    return 0; }
