@@ -11,5 +11,4 @@ int main() {
     printf("%c\n", ch);
     printf("%s\n", s);
     printf("%s\n", sen);
-    return 0;
-}
+    return 0; }
