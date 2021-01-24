@@ -41,4 +41,5 @@
           }    
           System.out.println("Smallest word: " + small);    
           System.out.println("Largest word: " + large);    
-      }  }  
+      }  
+}  
