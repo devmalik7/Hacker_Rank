@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include <stdlib.h>
 int main() 
 {
     int a, b,t,t1,i;
@@ -82,5 +81,4 @@ int main()
             }
         }
     }
-    return 0;
-}
+    return 0; }
