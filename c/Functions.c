@@ -21,5 +21,4 @@ else if (b>a && b>c && b>d)
     else {
     printf("%d",d);
     }
-    return 0;
-}
+    return 0; }
