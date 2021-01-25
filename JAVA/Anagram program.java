@@ -30,3 +30,4 @@ public class Anagram
         return Arrays.equals(firstArray,secondArray);
     }
 }
+
