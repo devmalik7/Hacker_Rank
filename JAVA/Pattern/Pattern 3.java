@@ -7,6 +7,7 @@
 7 7 7 7 7 7 7
 8 8 8 8 8 8 8 8
 
+ 
 import java.util.Scanner;
  
 public class MainClass
