@@ -7,7 +7,6 @@
 1010101
  
 
-
 import java.util.Scanner;
  
 public class MainClass
@@ -40,6 +39,5 @@ public class MainClass
         }
          
         sc.close();
-    }
-}
+    } }
 
