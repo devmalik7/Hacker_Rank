@@ -7,6 +7,7 @@
 1010101
 
 
+ 
 import java.util.Scanner;
  
 public class MainClass
