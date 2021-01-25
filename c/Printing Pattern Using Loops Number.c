@@ -8,10 +8,6 @@
                             4 4 4 4 4 4 4   
 
 
-                              
-
-
-
 #include <string.h>
 #include <math.h>
 ##include <stdio.h>
