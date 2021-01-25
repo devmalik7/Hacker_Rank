@@ -21,4 +21,5 @@ int main()
     }
     printf("The sum of the array is:%d",sum);
 
-    return 0; }
+    return 0; 
+}
