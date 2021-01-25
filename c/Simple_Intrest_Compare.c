@@ -32,4 +32,5 @@ int main()
 	printf("\nSI for Sohan is:%f", s3);
     	printf("\nMaximum interest is paid by:");
 	s1 > s2 ? (s1 > s3 ?printf("Ram"): printf("Sohan")) : (s2 > s3 ?printf("Mohan") :printf("Sohan"));
-    	return 0; }
+    	return 0; 
+}
