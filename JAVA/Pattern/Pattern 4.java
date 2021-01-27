@@ -8,10 +8,6 @@
 8 7
 8
  
- 
- 
- 
-
 import java.util.Scanner;
  
 public class MainClass
