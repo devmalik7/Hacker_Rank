@@ -9,7 +9,6 @@ public class Anagram
     }
     public static boolean isAnagram(String first, String second)
     {
-        // remove all whitespaces and convert strings to lowercase
         first  = first.replaceAll("\\s", "").toLowerCase();
         second = second.replaceAll("\\s", "").toLowerCase();
 
