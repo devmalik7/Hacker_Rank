@@ -61,5 +61,4 @@ break;
         temp++;
     }
     printf("%d",temp);
-    return 0;
-}
+    return 0; }
