@@ -28,5 +28,4 @@ public class HR6_javaloopsII {
             System.out.println();
         }
         sc.close();
-    } 
-}
+    } }
