@@ -22,9 +22,6 @@ public class HR3_if_else {
             else if(n>21)
             {
                 System.out.println("Not Weird");
-              }
-
-        }
-
+              } }
     }
 }
