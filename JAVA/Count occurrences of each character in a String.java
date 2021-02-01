@@ -12,8 +12,6 @@ public class EachCharacterCountInString
        characterCount("USA has 50 states");
     }
 
- 
-
  static void characterCount(String inputString)
     {
         //Creating a HashMap, key :Character  value : occurrences as Integer
