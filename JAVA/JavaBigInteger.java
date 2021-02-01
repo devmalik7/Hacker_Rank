@@ -8,6 +8,4 @@ public class JavaBigInteger {
 		BigInteger b = new BigInteger(sc.next());
 		System.out.println(a.add(b));
 		System.out.println(a.multiply(b));
-		sc.close();
-	}
-}
+		sc.close();	} }
