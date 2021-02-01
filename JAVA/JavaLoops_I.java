@@ -11,6 +11,4 @@ public static void main(String[] args)
         table=i*n;
     
     System.out.println(n+" x "+i+" = "+table);
-}
-}
-}
+} } } 
