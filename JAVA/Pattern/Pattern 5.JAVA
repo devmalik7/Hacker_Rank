@@ -6,8 +6,6 @@
 1 2 3
 1 2
 1
-
-
  
 import java.util.Scanner;
 public class MainClass
