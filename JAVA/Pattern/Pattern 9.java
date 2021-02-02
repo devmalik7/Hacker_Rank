@@ -49,7 +49,7 @@ public class MainClass
          
         //Closing the resources
          
-        sc.close();
+       sc.close();
     }
 }
 
