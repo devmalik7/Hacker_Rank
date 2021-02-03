@@ -3,7 +3,7 @@ import java.io.*;
 public class Anagram
 {
     public static void main (String[] args) throws java.lang.Exception
-    {
+    { 
         boolean result = isAnagram("now","own");
         System.out.println(result);
     }
