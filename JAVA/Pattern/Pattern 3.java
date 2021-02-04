@@ -30,7 +30,7 @@ public class MainClass
              
             System.out.println();
         }
-         
+        
         //Close the resources
          
         sc.close();
