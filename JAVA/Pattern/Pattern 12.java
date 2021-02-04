@@ -6,6 +6,7 @@
 101010 
 1010101
  
+ 
 
 import java.util.Scanner;
  
