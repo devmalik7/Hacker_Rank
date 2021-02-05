@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class HR2_input {
     public static void main(String[] args)
     {
