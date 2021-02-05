@@ -4,6 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+
 public class Solution {
        //Write your code here
     static int B;
