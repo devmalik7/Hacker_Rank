@@ -26,8 +26,7 @@ int n,temp=0,i=0,k,j=0,found;
             arr[0][j]=arr[0][i];
             i++;
             j++;
-        }
-    }
+        }    }
     arr[0][j]='\0';
 //check for gemstone
     for (i=0;i<strlen(arr[0]);i++)
