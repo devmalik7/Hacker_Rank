@@ -3,6 +3,8 @@
 #include <math.h>
 int main() 
 {
+    
+    
     int a, b,t,t1,i;
     scanf("%d\n%d", &a, &b);
     if(b>a){
