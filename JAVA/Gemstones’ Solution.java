@@ -3,6 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+
 int main() {
 int n,temp=0,i=0,k,j=0,found;
     scanf("%d",&n);
