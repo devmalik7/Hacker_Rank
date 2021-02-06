@@ -2,7 +2,6 @@ import java.util.*;
 import java.lang.Math;
 import java.io.*;
 
-
 public class HR6_javaloopsII {
     public static void main(String[] args)
 
