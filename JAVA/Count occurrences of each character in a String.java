@@ -1,3 +1,4 @@
+
 public class EachCharacterCountInString
 { 
 
@@ -32,10 +33,7 @@ public class EachCharacterCountInString
             }
             else
             {
-                //If char is not present in eachCharCountMap,
-                //Putting this char to eachCharCountMap with 1 as it's initial value
- 
-                eachCharCountMap.put(c, 1);
+                                eachCharCountMap.put(c, 1);
             }
         }
  
