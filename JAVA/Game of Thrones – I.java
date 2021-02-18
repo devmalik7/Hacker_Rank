@@ -4,9 +4,7 @@
 #include <iostream>
 #include <algorithm>
 #include <string>
-using namespace std;
-
- 
+using namespace std; 
 int main() {
     
     string s;
