@@ -1,2 +1,2 @@
 # Hacker Rank Solutions
-This Repository Consists of the solution of hacker rank questions.
+This Repository Consists of the HACKER RANK SOLUTIONS.
